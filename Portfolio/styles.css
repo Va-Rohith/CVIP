@@ -85,8 +85,8 @@ section {
     width: 30vw;
     border-radius: 50%;
     margin-left: 5rem;
-    border: 5px solid var(--main-color);
-    box-shadow: 0 0 1rem var(--main-color);
+    /* border: 5px solid var(--main-color); */
+    box-shadow: 0 0 4rem var(--main-color);
     opacity: .6;
     animation: floatImage 4s ease-in-out infinite;
 }
@@ -729,9 +729,13 @@ small {
         flex-direction: column;
     }
 
+    .home .home-content {
+        text-align: center;
+    }
+
     .home-img img {
         width: 50vw;
-        margin-top: 4rem;
+        margin-top: 8rem;
         /* margin-left: 20rem; */
     }
 
