@@ -51,7 +51,7 @@ ScrollReveal().reveal('.home-content p, .about-content, #pr-skills', { origin: '
 
 /* ======== typed js ======== */
 const typed = new Typed('.multiple-text', {
-    strings: ['Software Developer', 'Full-Stack Developer', 'UI/UX Designer'],
+    strings: ['Software Developer', 'Full Stack Developer', 'UI/UX Designer', 'Programmer'],
     typeSpeed: 100,
     backSpeed: 50,
     backDelay: 1000,
