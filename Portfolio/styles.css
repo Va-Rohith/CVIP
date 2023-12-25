@@ -163,10 +163,10 @@ span {
 }
 
 .about-img img {
-    width: 15vw;
+    width: 25vw;
     border-radius: 50%;
     /* border: 5px solid var(--main-color); */
-    box-shadow: 0 0 2.5rem var(--main-color);
+    /* box-shadow: 0 0 2.5rem var(--main-color); */
     margin-top: 10rem;
     margin-right: 4rem;
     animation: floatImage 4s ease-in-out infinite;
@@ -760,7 +760,7 @@ small {
     }
 
     .about-img img {
-        width: 25vw;
+        width: 20vw;
     }
 
     section {
