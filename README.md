@@ -24,4 +24,4 @@ I have built my own responsive portfolio website using HTML, CSS and JavaScript.
 ### Golden Task *(Link Shortener)*
 A website which you can use to create shorter links and avoid sharing or searching by using longer URLs. This helps in sharing longer links effortlessly by converting them into shorter ones and anyone is able to use it easily without a problem.
 > [𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐕𝐢𝐝𝐞𝐨 𝐨𝐟 𝐰𝐞𝐛-𝐩𝐚𝐠𝐞](https://www.linkedin.com/posts/rohith-vankayalapati_coderscave-webdevelopment-linkshortener-activity-7141823386078302208-QzPG) <br><br>
-> [𝐋𝐈𝐕𝐄 𝐏𝐑𝐄𝐕𝐈𝐄𝐖](https://va-rohith.github.io/CVIP/Netflix-Clone-Page/Link-Shortener) <br>
+> [𝐋𝐈𝐕𝐄 𝐏𝐑𝐄𝐕𝐈𝐄𝐖](https://va-rohith.github.io/CVIP/Link-Shortener) <br>
