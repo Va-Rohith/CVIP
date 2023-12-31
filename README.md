@@ -1,6 +1,6 @@
 # CVIP - CodersCave Web Developer Internship Tasks <br>
 
-<h2 align="center"> Phase-1 </h3>
+<h2 align="center"> Phase-1 </h2>
 
 ### Normal Task *(Netflix Clone Page)*
 This task includes creating a <b>Netflix Clone Page</b> which inturn creating a home page which resembles the Netflix interface, allowing users explore movies and TV shows in it.<br>
