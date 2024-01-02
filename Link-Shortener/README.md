@@ -1,6 +1,14 @@
 <img src="https://github.com/Va-Rohith/CVIP/blob/1d1acbbd2e92551a497d94c9af70ed7b41296a34/Portfolio/templates/images/link-shortener.png">
 <br>
 
+> ***Need to shorten the URL? Use this advanced URL shortening tool.*** <br><br>
+> ***Find Live WebPage Link Here 👇***
+
+&emsp; [ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴜꜱᴇ ᴜʀʟ ꜱʜᴏʀᴛᴇɴᴇʀ](https://va-rohith.github.io/CVIP/Link-Shortener/)
+
+<br>
+<hr>
+
 <h1 align="center"> Usages In Building This Website </h1>
 
 ### BoxIcons
