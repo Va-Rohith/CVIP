@@ -878,7 +878,7 @@ small {
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 489px) {
     html {
         font-size: 50%;
     }
