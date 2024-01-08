@@ -1,4 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
 * {
     margin: 0;
@@ -82,8 +82,8 @@ section {
 }
 
 .home-img img {
-    width: 20vw;
-    height: 45vh;
+    width: 24vw;
+    height: 50vh;
     border-radius: 50%;
     margin-left: 5rem;
     /* border: 5px solid var(--main-color); */
@@ -787,8 +787,8 @@ small {
 
 @media (max-width: 845px) {
     .home-img img {
-        width: 25vw;
-        height: 38vh;
+        width: 28vw;
+        height: 33vh;
     }
 }
 
@@ -832,8 +832,8 @@ small {
     }
 
     .home-img img {
-        width: 18vw;
-        height: 28vh;
+        width: 30vw;
+        height: 30vh;
     }
 
     .about {
@@ -872,8 +872,8 @@ small {
     }
 
     .home-img img {
-        width: 21vw;
-        height: 25vh;
+        width: 32vw;
+        height: 28vh;
         /* margin-right: 15rem; */
     }
 }
@@ -892,19 +892,12 @@ small {
     }
 
     .home-img img {
-        width: 25vw;
-        height: 25vh;
+        width: 30vw;
+        height: 20vh;
     }
 
     .contact form .input-box .input-field {
         width: 100%;
-    }
-}
-
-@media (max-width: 411px) {
-    .home-img img {
-        width: 24vw;
-        height: 20vh;
     }
 }
 
@@ -918,7 +911,7 @@ small {
     }
 
     .home-img img {
-        width: 25vw;
+        width: 35vw;
         height: 20vh;
     }
 
