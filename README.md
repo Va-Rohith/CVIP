@@ -19,7 +19,7 @@ In this we have developed an <b>Online Code Editor</b> in which one can write an
 ### Normal Task *(Portfolio)*
 I have built my own responsive portfolio website using HTML, CSS and JavaScript. This website is live and you can see it by clicking the below link. <br>
 > [𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐕𝐢𝐝𝐞𝐨 𝐨𝐟 𝐰𝐞𝐛-𝐩𝐚𝐠𝐞](https://www.linkedin.com/posts/rohith-vankayalapati_coderscave-webdevelopment-portfoliowebsite-activity-7141822471552253952-8ylX) <br><br>
-> [𝐋𝐈𝐕𝐄](https://rohithv.netlify.app)
+> [𝐋𝐈𝐕𝐄](https://va-rohith.github.io/CVIP/Portfolio/)
 
 ### Golden Task *(Link Shortener)*
 A website which you can use to create shorter links and avoid sharing or searching by using longer URLs. This helps in sharing longer links effortlessly by converting them into shorter ones and anyone is able to use it easily without a problem.
